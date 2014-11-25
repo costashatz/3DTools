@@ -54,9 +54,8 @@ make
 2. PlanarShapes
 	* Planes, e.t.c.
 3. Polymeshes, Polyhedra, Polytopes
-
 4. Quadratic Surfaces
-	* Three nonzero eigenvalues, two nonzero eigenvalues, ...
+	* Three nonzero eigenvalues, two nonzero eigenvalues, one nonzero eigenvalue
 5. Polynomial Curves
     * Bezier
     * B-Spline
